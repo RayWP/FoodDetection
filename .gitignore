@@ -3,6 +3,7 @@
 *.pkl
 *.model
 *.pb
+*.keras
 saved_model/
 *.tflite
 model_weights/
